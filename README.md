@@ -4,6 +4,7 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/2c774172-e0f2-4393-b58f-7fb96b5770a1/deploy-status" />
 </p>
 
 ## Screenshots
@@ -14,10 +15,6 @@
 
 A hands-on React Notes application provided by the [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) to serve as a Beginner's Guide for incorporating Material UI in React project.
 
-## What the Project does:
-
-Serves as an overview of Material UI and incorporate its components into a notes application. The application allows users to Create, Read, and Delete note cards.
-
 ## My reason for choosing this Project:
 
 My goal is to build more CRUD applications faster by utilizing preexisting components instead of building CSS from scratch. Although I love CSS, it can be time-consuming, which isn't helpful on tight deadlines.
@@ -25,6 +22,12 @@ My goal is to build more CRUD applications faster by utilizing preexisting compo
 ## What is Material UI:
 
 A libary of accessible and customizable components that allows developers to build React applications faster
+
+### 🏠 [Homepage](https://react-material-ui-tutorial.netlify.app/)
+
+## Functionality:
+
+The Notes application allows users to Create, Read, and Delete note cards.
 
 ## Technologies:
 
