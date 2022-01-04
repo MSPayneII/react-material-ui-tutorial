@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to my Material UI Tutorial React Project created by <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg" target="_blank">The Net Ninja
-    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
-  </a>👋</h1>
+<h1 align="center">Welcome to my Material UI Tutorial React Project created by <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg" target="_blank">The Net Ninja</a>👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -14,11 +12,11 @@
 
 ## What is this Project:
 
-A step-by-step hands-on React Notes project provided by the [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) to serve as a Beginner's Guide for incorporating Material UI in React project.
+A hands-on React Notes application provided by the [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) to serve as a Beginner's Guide for incorporating Material UI in React project.
 
 ## What the Project does:
 
-To provide an overview of Material UI and incorporate its components into React projects.
+Serves as an overview of Material UI and incorporate its components into a notes application. The application allows users to Create, Read, and Delete note cards.
 
 ## My reason for choosing this Project:
 
