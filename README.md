@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to my Material UI Tutorial React Project created by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) 👋</h1>
+<h1 align="center">Welcome to my Material UI Tutorial React Project created by <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg" target="_blank">The Net Ninja
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
