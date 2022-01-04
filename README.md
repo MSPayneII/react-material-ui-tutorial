@@ -14,7 +14,7 @@
 
 ## What is this Project:
 
-A step-by-step hands-on React project provided by the [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) to serve as a Beginner's Guide for incorporating Material UI in React project.
+A step-by-step hands-on React Notes project provided by the [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) to serve as a Beginner's Guide for incorporating Material UI in React project.
 
 ## What the Project does:
 
