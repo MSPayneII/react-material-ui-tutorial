@@ -15,18 +15,6 @@ import FormControl from "@material-ui/core/FormControl";
 import { useNavigate } from "react-router-dom";
 
 const useStyles = makeStyles({
-  // btn: {
-  //   fontSize: 60,
-  //   backgroundColor: "violet",
-  //   "&:hover": {
-  //     backgroundColor: "blue",
-  //   },
-  // },
-  // title: {
-  //   textDecoration: "underline",
-  //   marginBottom: 20,
-  // },
-
   field: {
     marginTop: 20,
     marginBottom: 20,
@@ -132,15 +120,6 @@ export default function Create() {
           Submit
         </Button>
       </form>
-
-      {/* Icons */}
-      {/* <br />
-      <AcUnitOutlinedIcon />
-      <AcUnitOutlinedIcon color="secondary" fontSize="large" />
-      <AcUnitOutlinedIcon color="secondary" fontSize="small" />
-      <AcUnitOutlinedIcon color="action" fontSize="small" />
-      <AcUnitOutlinedIcon color="error" fontSize="small" />
-      <AcUnitOutlinedIcon color="disabled" fontSize="small" /> */}
     </Container>
   );
 }

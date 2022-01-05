@@ -12,7 +12,6 @@ export default function Notes() {
   useEffect(() => {
     const axiosAPI = async () => {
       const response = await axios.get(`http://localhost:8000/notes`);
-      const responseData = response.data;
       setNotes(response.data);
     };
     axiosAPI();
